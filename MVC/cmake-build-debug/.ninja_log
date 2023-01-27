@@ -1,0 +1,16 @@
+# ninja log v5
+331	445	6965263252003756	MVC.exe	4a985f25bb4ea1f5
+3	375	6965263225872386	CMakeFiles/MVC.dir/main.cpp.obj	602143350d02e0df
+3	304	6965263250616331	CMakeFiles/MVC.dir/model/Model.cpp.obj	70064cc2489cc352
+9	305	6965263250616331	CMakeFiles/MVC.dir/controller/Controller.cpp.obj	75bc15bdb8eb8a23
+7	362	6965263225750251	CMakeFiles/MVC.dir/view/PieChartView.cpp.obj	d331eea795786eba
+7	331	6965263250887288	CMakeFiles/MVC.dir/view/TableView.cpp.obj	235bf87def19d047
+0	477	6965279932731724	build.ninja	2af2168f78b0feb3
+7	474	6965279992507499	CMakeFiles/MVC.dir/model/Model.cpp.obj	c70f2d436a89f760
+11	476	6965279992527450	CMakeFiles/MVC.dir/view/PieChartView.cpp.obj	8380f157fd80f9f0
+14	484	6965279992617210	CMakeFiles/MVC.dir/view/TableView.cpp.obj	a6f9e0398b956f19
+18	497	6965279992746856	CMakeFiles/MVC.dir/controller/Controller.cpp.obj	d56b19bdd7a0e348
+3	518	6965279992966273	CMakeFiles/MVC.dir/main.cpp.obj	483dd740511d72b9
+519	741	6965279995170716	MVC.exe	4a985f25bb4ea1f5
+0	22	0	clean	c30718adf265a8b8
+0	10	0	clean	c30718adf265a8b8
